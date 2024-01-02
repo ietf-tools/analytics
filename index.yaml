@@ -3,6 +3,15 @@ entries:
   matomo:
   - apiVersion: v1
     appVersion: "1.0"
+    created: "2024-01-02T21:39:52.403113221Z"
+    description: A Helm chart for Kubernetes
+    digest: fbbbb40e3c1175024b0ca5acb1c2606ad085814989dfee574717cde18830133b
+    name: matomo
+    urls:
+    - https://github.com/ietf-tools/analytics/releases/download/matomo-0.1.1/matomo-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: "1.0"
     created: "2023-12-29T21:04:23.198277055Z"
     description: A Helm chart for Kubernetes
     digest: d8488dc7713579adf1410f78769cbba25d4f756b7c21ed7b9b3b71b19c7956b9
@@ -10,4 +19,4 @@ entries:
     urls:
     - https://github.com/ietf-tools/analytics/releases/download/matomo-0.1.0/matomo-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-29T21:04:23.198286873Z"
+generated: "2024-01-02T21:39:52.403126566Z"
